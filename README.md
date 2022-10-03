@@ -15,7 +15,7 @@ Run it
 ```bash
 $ npm start # or yarn start
 ```
-git remote add origin https://github.com/vishal1106/Weather-App.git
+
 ## Built with
 
 - Reactjs
